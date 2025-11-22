@@ -44,7 +44,7 @@ track_ball_two_outputs(
 Code .
 ```
 You can copy and paste to jupyter notebook  or in google collab you can use easily, git clone, change the colour of ball, table and it would easily track the ball.
-```
+
 ## Output 
 ![image1](/img/3.png)
 ![image](/img/1.png)
